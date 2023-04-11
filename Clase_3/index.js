@@ -45,7 +45,9 @@ let products = []
 
 let PM1 = new ProductManager()
 
-PM1.addProduct("rice", "A package of rice", 200, "thumbnailURL", 001, 1);
-PM1.addProduct("milk", "A carton of milk", 240, "thumbnailURL", 002, 1);
+PM1.addProduct("rice", "A package of rice", 200, "thumbnailURL", 001, 25);
+PM1.addProduct("milk", "A carton of milk", 240, "thumbnailURL", 002, 15);
+PM1.addProduct("tea", "A box of tea bags", 120, "thumbnailURL", 003, 10);
+PM1.addProduct("eggs", "A dozen eggs", 500, "thumbnailURL", 004, 30);
 PM1.getProducts();
 PM1.getProductById(2);
