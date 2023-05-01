@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "rice",
+    "description": "A package of rice",
+    "price": 200,
+    "thumbnail": "thumbnailURL",
+    "code": 1,
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "title": "tea",
+    "description": "A box of tea bags",
+    "price": 120,
+    "thumbnail": "thumbnailURL",
+    "code": 3,
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "title": "eggs",
+    "description": "A dozen eggs",
+    "price": 500,
+    "thumbnail": "thumbnailURL",
+    "code": 4,
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "title": "milk",
+    "description": "A carton of milk",
+    "price": 240,
+    "thumbnail": "thumbnailURL",
+    "code": 2,
+    "stock": 15
+  }
+]
